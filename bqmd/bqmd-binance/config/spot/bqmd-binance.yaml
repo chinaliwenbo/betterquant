@@ -4,7 +4,7 @@ symbolType: Spot
 saveMarketData: true
 
 addrOfSymbolTable: "https://data.binance.com/api/v3/exchangeInfo"
-addrOfWSPub: "wss://data-stream.binance.com:9443/ws"
+addrOfWSPub: "wss://stream.binance.com:9443/ws"
 
 enableSymbolTableMaint: true
 
